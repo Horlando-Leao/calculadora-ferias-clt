@@ -203,6 +203,9 @@ const App = () => {
           <p className="mt-2 text-gray-600 max-w-2xl mx-auto">
             Simule o cálculo de suas férias, incluindo abono, 13º e PLR, conforme a CLT.
           </p>
+          <p className="mt-2 text-gray-600 max-w-2xl mx-auto">
+            Atualizado em 29/02/2026 com as últimas regras de impostos e benefícios.
+          </p>
         </header>
 
         <div className="bg-white rounded-xl shadow-lg p-6 md:p-8 mb-8">
